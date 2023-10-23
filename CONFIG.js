@@ -1,8 +1,8 @@
 const CONFIGDATA = {
-    titleHeader: "Cậu !!! Cậu có yêu các chàng trai của VIT hong ~~",
-    descriptionHeader: "Nếu cậu thoát ra và không trả lời thì có nghĩa là Có nha ~~",
-    buttonYes: "Phải hỏi nữa sao ?!!",
-    buttonNo: "Hứ~Hông yêu đấy, làm gì tớ?",
-    titleModar: "Chúng tớ cũng yêu cậu !!!",
-    descriptionModar: 'Chúng tớ biết cậu sẽ nói Có mà ^^ </br> </br> Chúng tớ đã chuẩn bị một món quà dành tặng cho cậu nè !!! </br>Cậu sẽ nhận chứ 💘 ^^',
+    titleHeader: "Cậu !!! Cậu cho tớ xin một cái hẹn nhé :3 ~~",
+    descriptionHeader: "Nếu cậu thoát ra và không trả lời thì là đồng ý rùi đó ~~",
+    buttonYes: "....Ngại quá...cơ mà mấy giờ zậy :3 ~~",
+    buttonNo: "Không, cậu à :3 ~~",
+    titleModar: "Hihi !!!",
+    descriptionModar: 'Gửi tớ địa chỉ dinh thự của cậu nha, tối 8h tớ chờ ở cổng nhé ^^ </br> </br> Trong khi chờ tớ qua, hãy cùng xem phần quà nho nhỏ này nhé hihi :3 </br> Đố cậu mở được hết các cửa đó, gợi ý là dùng phím di chuyển lên xuống để lấy chìa khóa mở cửa nha 💘 ^^',
 };
